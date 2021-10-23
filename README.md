@@ -13,6 +13,11 @@ This project is to create a dashboard that displays demographic information of t
 
 ### Purpose
 This project aims to help Raza present a website to visualize the bacteria found in each participant's belly button. These bacteria are being studied as a means to create improbable beef. If synthetic meat identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
+
+![image](https://user-images.githubusercontent.com/82733723/138562547-3b39504b-7926-4d2c-a3a4-3251649c4ceb.png)
+
+![image](https://user-images.githubusercontent.com/82733723/138562570-16b33ad3-3893-4caf-af19-154e4e687fc0.png)
+
 # Resources
 Software: Visual Studio Code, 1.38.1, JavaScript, HTML5, CSS & D3.js
 Data Source:[Belly Button Sample Info](https://github.com/summerginger/Belly-Button-Bio/blob/main/samples.json)
