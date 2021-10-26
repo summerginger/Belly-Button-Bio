@@ -1,9 +1,9 @@
 # Belly Button Biodiversity Dashboard [click here](https://summerginger.github.io/Belly-Button-Bio/)
 
 # Project Overview
-This project is to create a dashboard that displays demographic information of the bacteria data for each volunteer. The project includes the following:
+This project is to create a dashboard that displays demographic information of the bacteria data for each volunteer. The project includes:
 
-•	Complete the demographic information panel for the selected volunteer ID number.
+•	The demographic information panel for the selected volunteer ID number.
 
 •	The bar chart shows the top 10 bacterial species in a volunteer's navel. 
 
